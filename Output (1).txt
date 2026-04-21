@@ -1,0 +1,25 @@
+D:\KRMU\SEM-2\Code\DSA assign-3>python -u "d:\KRMU\SEM-2\Code\DSA assign-3\spa_sorting.py"
+Correctness Check:
+Insertion: [1, 2, 5, 5, 6, 9]
+Merge: [1, 2, 5, 5, 6, 9]
+Quick: [1, 2, 5, 5, 6, 9]
+
+--- PERFORMANCE RESULTS (ms) ---
+
+
+Size: 1000
+Random: Insertion=21.46 ms | Merge=1.98 ms | Quick=1.08 ms
+Sorted: Insertion=0.08 ms | Merge=2.35 ms | Quick=1.56 ms
+Reverse: Insertion=43.20 ms | Merge=2.07 ms | Quick=1.11 ms
+
+Size: 5000
+Random: Insertion=477.38 ms | Merge=9.85 ms | Quick=7.69 ms
+Sorted: Insertion=0.54 ms | Merge=6.72 ms | Quick=7.25 ms
+Reverse: Insertion=1054.92 ms | Merge=7.50 ms | Quick=7.43 ms
+
+Size: 10000
+Random: Insertion=1958.29 ms | Merge=21.43 ms | Quick=14.43 ms
+Sorted: Insertion=1.27 ms | Merge=18.53 ms | Quick=15.52 ms
+Reverse: Insertion=3558.63 ms | Merge=15.44 ms | Quick=13.71 ms
+
+D:\KRMU\SEM-2\Code\DSA assign-3>
